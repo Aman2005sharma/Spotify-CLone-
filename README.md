@@ -65,10 +65,10 @@ I created this project while learning **HTML and CSS** to improve my understandi
 
 ## 📸 Project Preview
 
-Add a screenshot of your project here:
+screenshot of your project here:
 
 ```text
-![Spotify Clone Preview](screenshot.png)
+![Spotify Clone Preview](spotify-preview.png)
 ```
 
 ## 📚 Learning Project
